@@ -1,0 +1,19 @@
+.gallery{
+    display: inline-block;
+    border:1px solid red;
+    margin: 5px;
+}
+.gallery .description{
+    padding:10px;
+    text-align: center;
+}
+.gallery:hover{
+    border: 1px solid greenyellow;
+}
+.gallery img{
+    width:10%;
+    height:auto
+}
+
+
+/*if u click the image then it will display the entire image*/

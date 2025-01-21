@@ -1,0 +1,9 @@
+/*li:hover{
+    background-color: rgb(213, 110, 110);
+}
+li:not(:hover){
+    background-color: rgb(156, 214, 170);
+}*/
+li:nth-child(even){/*for every 3rd element type 3n or3n+2,3n+1*/
+    background-color: red;
+}

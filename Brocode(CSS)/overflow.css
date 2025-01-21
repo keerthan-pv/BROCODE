@@ -1,0 +1,12 @@
+div{
+    border:2px solid;
+    height:25 px;
+    overflow:visible;
+    overflow-clip-margin: 13px;
+    overflow: scroll;
+}/*change visible to:
+overflow:visible
+overflow:hiddde
+overflow:clip
+overflow:scrool
+overflow:auto*/

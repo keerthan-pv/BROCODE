@@ -1,0 +1,21 @@
+#box1{
+    width: 200px;
+    height:200px;
+    background-color: aqua;
+    position:fixed;/*u cna change the fixed to sticky,fixed,relative,absolute,static*/
+    top:100px;
+    left: 100px;/* we can also enter negative 100 by, -100*/
+    right: 50px;
+    bottom:50px;}
+#box2{
+    width: 100px;
+    height:100px;
+    background-color: rgb(255, 8, 0);
+    position:absolute;
+    top:100px;
+    left: 100px;/* we can also enter negative 100 by, -100*/
+    right: 50px;
+    bottom:50px;
+    top: 50px;
+    left:50px;
+}

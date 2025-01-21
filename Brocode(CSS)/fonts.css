@@ -1,0 +1,18 @@
+@font-face{
+    src:url(fonts/Roboto-Bold.ttf);
+    font-family: Roboto-Light;
+}
+@font-face{
+    src:url(fonts/Roboto-Italic.ttf);
+    font-family: Roboto-Italic;
+}
+
+h1{
+    font-family: Verdana, arial;
+}
+p{
+    font-family: "Roboto","courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}

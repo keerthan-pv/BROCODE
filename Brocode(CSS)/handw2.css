@@ -1,0 +1,23 @@
+*{
+    box-sizing:border-box;
+}
+.container{
+    background-color: red;
+    height:100vh;
+}
+
+
+.box{
+    background-color: whitesmoke;
+    border:2px solid;
+    padding: 25px;
+    box-sizing: border-box;
+    height:auto;
+    width: auto/*50%*/;
+    /*float:left;for displayoing this line remove border*/
+    text-align:center;    
+    max-width: 25%;
+    min-width: 75%;
+    min-height: 50%;
+    min-height: 50%;  
+}   

@@ -1,0 +1,13 @@
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display:block;
+    /*visibility: hidden;*/
+}
+span{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display:inline;
+}/*by display we can change the block level element to inline element and viceversa and inline-block can also be applied

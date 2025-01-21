@@ -1,0 +1,12 @@
+.box{
+    border:2px solid;
+    padding: 25px;
+    box-sizing: border-box;
+    height:auto;
+    width: auto/*50%*/;
+    /*float:left;for displayoing this line remove border*/
+    text-align:center;    
+    max-width: 25%;
+    min-width: 75%;
+    
+}
